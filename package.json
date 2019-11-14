@@ -1,5 +1,6 @@
 {
   "name": "backend",
+  "tutorial": "https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site/react-for-full-stack-solutions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
